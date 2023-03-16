@@ -1,0 +1,15 @@
+Name: TestGIT
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - DataRaptor/AccountSearch
+    - DataRaptor/AmendFrameContract-CreateOppty
+    - DataRaptor/AmendFrameContract-CreateOrder
+    - OmniScript/ActivateFrameAgreement_Oppty_English
+    - OmniScript/ActivateFrameAgreement_Order_English
+    - OmniScript/b2bExpress_CreateQuote_Multi-Language
+    - profiles/Customer Community Plus Login User.profile
+VlocityTypesToFetch:
+    - DataRaptor
+    - OmniScript
+SalesforceTypesToFetch:
+    - Profile
