@@ -8,6 +8,7 @@ VlocityDataPackKeys:
     - OmniScript/ActivateFrameAgreement_Order_English
     - OmniScript/b2bExpress_CreateQuote_Multi-Language
     - profiles/Customer Community Plus Login User.profile
+    - DataRaptor/CPQ - Get Order Members
 VlocityTypesToFetch:
     - DataRaptor
     - OmniScript
